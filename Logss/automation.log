@@ -1,0 +1,13 @@
+2022-05-27 11:12:47,652 - root - INFO - ************Test_003_AddCustomer ***********
+2022-05-27 11:12:53,666 - root - INFO - ********** Login successful********
+2022-05-27 11:12:53,666 - root - INFO - ************* Starting Add customer Test ****************
+2022-05-27 11:13:03,010 - root - INFO - ********* Providing customer info ********************
+2022-05-27 11:13:09,328 - root - INFO - ************ Saving customer info *************
+2022-05-27 11:13:09,329 - root - INFO - ************* Adding customer validation started ********
+2022-05-27 11:13:09,897 - root - INFO - ********* Add customer Test Passed ************
+2022-05-27 11:13:10,029 - root - INFO - ************* Ending Add customer test ***********
+2022-05-27 11:13:12,401 - root - INFO - ******************Test_001_Login**************
+2022-05-27 11:13:12,401 - root - INFO - ******************Verifying Home Page Title
+2022-05-27 11:13:17,830 - root - INFO - *********Home page title is passed************
+2022-05-27 11:13:20,008 - root - INFO - *************Verifying login test***********
+2022-05-27 11:13:27,751 - root - INFO - *********Login test case passed**********
